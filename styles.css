@@ -1,0 +1,12 @@
+body {
+    background-color: tan;
+}
+
+h1 {
+    font-size: 100px;
+    font-style:italic;
+    text-align: center;
+    color: white;
+    background-color: rgb(66, 22, 7);
+    font-family: 'Brush Script MT', script, serif;
+}
