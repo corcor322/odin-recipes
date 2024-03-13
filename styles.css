@@ -10,3 +10,15 @@ h1 {
     background-color: rgb(66, 22, 7);
     font-family: 'Brush Script MT', script, serif;
 }
+
+.recipe {
+    text-align: center;
+    color: white;
+    background-color: rgb(171, 84, 60);
+    padding: 16px;
+    margin: 16px;
+}
+
+.recipe_link {
+    :visited white;
+}
